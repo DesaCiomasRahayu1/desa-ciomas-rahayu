@@ -13,8 +13,8 @@
     </div>
     <div class="grid place-items-center ml-auto mr-20">
       <iframe
-        width="560"
-        height="315"
+        width="500"
+        height="280"
         src="https://www.youtube.com/embed/zzIhnvU3HPk?si=0DF1sJDQxicxoEIn"
         title="YouTube video player"
         frameborder="0"
