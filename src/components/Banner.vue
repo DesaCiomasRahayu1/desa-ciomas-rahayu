@@ -13,9 +13,9 @@
     </div>
     <div class="grid place-items-center ml-auto mr-20">
       <iframe
-        width="480"
-        height="260"
-        src="https://youtu.be/zzIhnvU3HPk?si=YCBVyYRzSoRpTflR"
+        width="560"
+        height="315"
+        src="https://www.youtube.com/embed/zzIhnvU3HPk?si=0DF1sJDQxicxoEIn"
         title="YouTube video player"
         frameborder="0"
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
