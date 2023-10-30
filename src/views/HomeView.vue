@@ -37,7 +37,6 @@ import Sidebar from "../components/Sidebar.vue";
         <li>
           6. Menciptakan Keamanan dan Ketentraman Warga Desa Ciomas Rahayu melalui Peningkatan Kewaspadaan dan tolenransi;
         </li>
-        <li>
       </ul>
     </div>
   </main>
