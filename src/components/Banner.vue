@@ -8,7 +8,7 @@
     <div class="ml-10 flex flex-col justify-center">
       <p class="text-white text-2xl mb-2">Profile Desa</p>
       <!-- Sesuaikan nama desa masing-masing -->
-      <p class="text-white text-5xl">Desa Ciomas Rahayu</p>
+      <p class="text-white text-6xl">Desa Ciomas Rahayu</p>
       <p class="text-white text-4xl">Kecamatan Ciomas | Kab. Bogor</p>
     </div>
     <div class="grid place-items-center ml-auto mr-20">
