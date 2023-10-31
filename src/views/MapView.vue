@@ -32,13 +32,6 @@ import {
         layer-type="overlay"
         :name="`${geojson.properties.RW}`"
       />
-      <l-geo-json
-        :name="`Landuse`"
-        v-if="show"
-        :geojson="geojson"
-        :options="options"
-        layer-type="overlay"
-        :name="`${geojson.properties.penggunaan-lahan}`"
       
       <l-geo-json
         :name="`Landuse`"
