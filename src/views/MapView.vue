@@ -101,7 +101,7 @@ export default {
     async loadSomeGeoJson() {
       const nextIndex = this.layerData.length;
 
-      const response = await fetch("/batas-desa-ciomas-rahayu");
+      const response = await fetch("batas-desa-ciomas-rahayu");
       const data = await response.json();
 
       console.log(data);
@@ -152,7 +152,7 @@ export default {
   },
   async created() {
     this.loading = true;
-    const response = await fetch("/penggunaan-lahan-desa-ciomas-rahayu");
+    const response = await fetch("penggunaan-lahan-desa-ciomas-rahayu");
     const data = await response.json();
     this.geojson = data;
     this.loading = false;
